@@ -1,2 +1,2 @@
 # Miscellaneous
-Miscellaneous functions
+Contains functions to performa various tasks.
